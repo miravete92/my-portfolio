@@ -4,4 +4,4 @@ My Portfolio
 
 Check it out
 ------------
-[Go to the live demo](https://miravete92.github.io/my-portfolio/index.html)
+[Go to the live demo](https://miravete92.github.io/my-portfolio)
